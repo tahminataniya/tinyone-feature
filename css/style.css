@@ -1,0 +1,55 @@
+/*common start*/
+body{
+	font-family: 'PT Sans', sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	color:#898989;
+}
+/*common end*/
+
+/*feature start*/
+.feature{
+	padding-top: 100px;
+	padding-bottom: 120px;
+}
+.c_title{}
+.c_h1{
+	margin-bottom: 15px;
+	font-size: 32px;
+	font-weight: 700;
+	color: #010101;
+}
+.c_p{
+	font-size: 20px;
+	color: #313841;
+	line-height: 28px;
+}
+/*2nd row start*/
+.f_item{
+	margin-top: 70px;
+}
+
+.f_icon{}
+.f_icon i{
+	 margin-top: 3px;
+	font-size: 50px;
+	color: #010101;
+	transition: .3s;
+ 
+}
+.f_icon i:hover{
+	transform: scale(.8);
+    
+}
+.f_text{}
+.f_text h2{
+	margin-bottom: 10px;
+	font-weight:400;
+    font-size: 22px;
+    color: #010101;
+}
+.f_text p{
+	letter-spacing: 1px;
+}
+
+/*feature end*/
